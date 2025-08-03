@@ -1,9 +1,10 @@
-# Tinder-Style Food App
+# Tender: Tinder-Style Food Discovery App
 
 A cross-platform mobile app built with **Flutter** that lets users swipe through recipes to save or discard them, similar to the Tinder swipe experience.
 
 ## Features
 
+- **Project Management:** Led development as project manager, organized sprints, and coordinated team tasks using Scrum methodology.  
 - **Swipe to Save or Discard:** Browse recipes by swiping right to save favorites or left to discard.  
 - **Recipe Data Source:** Recipes are fetched dynamically from [TheMealDB API](https://www.themealdb.com/api.php).  
 - **User Authentication:** Secure login and signup with **Firebase Authentication**.  
